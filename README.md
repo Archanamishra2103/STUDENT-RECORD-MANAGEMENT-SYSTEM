@@ -1,4 +1,4 @@
-📘Student Record Management System
+# 📘Student Record Management System
 
 A simple CLI-based CRUD system built in Java to manage student records.
 This project demonstrates OOP concepts, ArrayList usage, and CRUD operations.
